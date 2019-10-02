@@ -2,9 +2,6 @@
 
 body {
     height: 800px;
-    display: flex; 
-    flex-flow: row nowrap;
-    align-items: flex-end;
     border: 5px solid red;
 }
 

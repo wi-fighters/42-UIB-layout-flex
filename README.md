@@ -7,7 +7,7 @@
 * 03: Use flexbox to display all divs in a column in reverse order on the center of the page. 
 * 04: Use flexbox to display all divs in a row at the bottom of the container. Make the divs only take up one line.
 * 05: Use flexbox to display the divs on one row in the center of the container.
-* 05: Use flexbox to display all divs in one column in the center of the page.
+* 06: Use flexbox to display all divs in one column in the center of the page.
 
 **Note**: Instructions can also be found in the css file for each exercise. 
 
