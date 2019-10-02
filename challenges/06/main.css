@@ -1,16 +1,15 @@
-/* Use flexbox to display the divs on one row in the center of the container */
+/* Use flexbox to display all divs in one column in the center of the page.*/
 
 body {
     display: flex; 
-    flex-flow: row nowrap;
-    justify-content: center;
+    flex-flow: column;
+    align-items: center;
     border: 5px solid red;
 }
 
 div {
-    flex-shrink: 1;
     height: 100px;
-    /* width: 150px;  */
+    width: 150px; 
     background-color: darkgray;
     margin: 1em;
     border: 2px solid red;

@@ -1,10 +1,11 @@
-/* Use flexbox to display all divs in a column in reverse order on the center of the page. */
+/* Use flexbox to display all divs in a row at the bottom of the container. Make the divs only take up one line */
 
 body {
+    height: 800px;
     display: flex; 
-    flex-flow: column-reverse wrap;
+    flex-flow: row nowrap;
+    align-items: flex-end;
     border: 5px solid red;
-    align-items: center;
 }
 
 div {
